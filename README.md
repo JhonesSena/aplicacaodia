@@ -1,2 +1,3 @@
 # aplicacaodia
-aplicacao de dia da semana
+QUEdiaeHoje em PHP
+diadasemana em php
